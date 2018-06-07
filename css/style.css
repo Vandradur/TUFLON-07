@@ -1,0 +1,187 @@
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Montserrat|Montserrat+Alternates|Montserrat+Subrayada|Puritan');
+@font-face {
+  font-family: 'MontserratSubrayada-Regular';
+  src: url(../fonts/Montserrat_Subrayada/MontserratSubrayada-Regular.ttf);
+}
+@font-face {
+  font-family: 'Montserrat-ExtraBold';
+  src: url(../fonts/Montserrat/Montserrat-ExtraBold.ttf);
+}
+@font-face {
+  font-family: 'Puritan-Regular';
+  src: url(../fonts/Puritan/Puritan-Regular.ttf);
+}
+@font-face {
+  font-family: 'Puritan-Bold';
+  src: url(../fonts/Puritan/Puritan-Bold.ttf);
+}
+@font-face {
+  font-family: 'CrimsonText-SemiBoldItalic';
+  src: url(../fonts/Crimson_Text/CrimsonText-SemiBoldItalic.ttf);
+}
+:root {
+  --pinkRed: #c9485c;
+  --gray: #555559;
+  --lightGray: #5c5c61;
+  --blue: #161c59; 
+  --red: #e71d36;
+  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+  --background: #222930;
+  --textClr: rgb(255, 255, 255);
+  --coolGray: #ebebeb;
+  --background_2: #eeeae4;
+  --background_3: #eeeae4c2;
+  --yellow: #c9c69bff;
+  --yellow2: #c9c595fa;
+  --yellow3: #e4ba2fff;
+  --yellow4: #bca647ff;
+  --gray1: #d5d5d5ff;
+  --gray2: #bcbcbcff;
+  --gray3: #89807bff;
+  --tomato: #b36a57ff;
+  --black: #211f13ff;
+}
+/*
+body {
+ 
+   font-family: 'Crimson Text', serif;
+   font-family: 'Puritan', sans-serif;
+   font-family: 'Montserrat Subrayada', sans-serif;
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+ 
+}*/
+  /*  NAVIGATION
+========================================== */
+.nav-wrapper {
+  background-color: var(--textClr);
+  font-family: 'Puritan';
+  color: var(--black);
+  padding: 0px 25px;
+}
+.sidenav {
+  background-color: var(--black);
+}
+.nav-wrapper .right a {
+  color: var(--black);
+  text-transform: uppercase;
+}
+#mobile-demo a {
+  color: var(--textClr);
+  text-transform: uppercase;
+  font-family: 'Puritan';
+  background-color: var(--yellow4);
+}
+#mobile-demo li {
+  margin-top: 10px;
+  padding: 7px 17px;
+}
+#mobile-demo {
+  width: 260px;
+}
+
+  /*  HERO IMAGE SECTION
+========================================== */
+
+.slogan {
+  font-weight: 300;
+  font-size: 2.7em;
+  color: var(--yellow3);
+  font-family: 'MontserratSubrayada-Regular';
+  text-transform: uppercase;
+}
+.parallax-container .btn-large {
+  background-color: var(--yellow3);
+  color: var(--background);
+  font-family: 'Puritan-Regular';
+}
+.first_image {
+  filter: grayscale(95%);
+ /* filter: hue-rotate(120deg);*/
+}
+  /*  SERVICES SECTION
+========================================== */
+.section3 {
+  padding: .2em;
+}
+.card__about {
+  font-family: 'Puritan-Regular';
+  font-size: 1.1em;
+}
+.container .section_header {
+  font-size: 1.9em;
+  font-weight: 700;
+  font-family: 'Montserrat-ExtraBold';
+  
+}
+.card-content {
+  background-color: var(--textClr);
+}
+.card-content p {
+  color: #333;
+  font-size: 1.2em;
+  font-family: 'CrimsonText-SemiBoldItalic';
+}
+.card-title {
+  color: var(--yellow4);
+  font-family: 'Puritan-Bold';
+  text-transform: uppercase;
+  margin-top: 12px;
+}
+
+.divider {
+  color: #161c59;
+}
+.art__box {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.card-action {
+  color: var(--yellow4);
+  font-family: 'Puritan-Bold';
+}
+
+.subC {
+  background-color: var(--yellow3);
+  color: var(--blue);
+  font-family: 'Puritan-Regular';
+  
+}
+
+
+.cta {
+  font-weight: 300;
+  text-shadow: 1px 1px black;
+  color: var(--yellow3);
+}
+
+  /*  FOOTER
+========================================== */
+.page-footer {
+  background-color: var(--background);
+}
+.page-footer .bio {
+  color: var(--yellow4);
+  font-family: 'CrimsonText-SemiBoldItalic';
+}
+.page-footer .intro {
+  color: var(--textClr);
+  font-family: 'Puritan-Regular';
+}
+.locations {
+  color: var(--yellow4);
+}
+.lastP {
+  color: var(--background);
+  background: #ffffffcc;
+  text-shadow: 1px 1px rgba(35, 38, 39, 0.11);
+  padding: 10px;
+}
+
+
+
+
+
+

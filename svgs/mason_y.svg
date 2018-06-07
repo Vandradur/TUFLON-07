@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-270.54163)"
+     id="layer1">
+    <g
+       id="g5387">
+      <circle
+         style="opacity:0.99900004;fill:none;fill-opacity:1;stroke:#aa7f31;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45669365;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3388"
+         cx="13.229167"
+         cy="283.77078"
+         r="10.961308" />
+      <g
+         id="handa"
+         transform="matrix(1.8431406,0,0,1.8805543,-25.713757,-188.80062)"
+         style="stroke-width:0.53712803">
+        <g
+           id="handa__fill"
+           style="stroke-width:0.53712803">
+          <path
+             style="opacity:1;fill:#c3c58b;fill-opacity:1;stroke:none;stroke-width:0.14211515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45669365;stroke-opacity:1;paint-order:stroke fill markers"
+             d="m 22.175093,249.90528 c -0.02535,-0.002 -0.05024,-0.002 -0.0749,3.5e-4 -0.345352,0.0307 -0.615083,0.46296 -0.615083,0.8864 v 0.63232 0.0793 0.63233 c 0,0.42343 0.269731,0.8557 0.615083,0.88638 0.04934,0.005 0.100134,5.6e-4 0.151983,-0.0127 l 2.415578,-0.61463 c 0.414817,-0.10556 0.767066,-0.38974 0.767066,-0.87365 v -0.0178 -0.0793 -0.0177 c 0,-0.48391 -0.352249,-0.76809 -0.767066,-0.87366 l -2.415578,-0.61462 c -0.02593,-0.008 -0.05173,-0.011 -0.07709,-0.0131 z"
+             id="rect1057" />
+          <rect
+             style="opacity:1;fill:#c3c58b;fill-opacity:1;stroke:none;stroke-width:0.14211513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45669365;stroke-opacity:1;paint-order:stroke fill markers"
+             id="rect1066"
+             width="2.8865182"
+             height="0.90936106"
+             x="16.822319"
+             y="249.56303"
+             ry="0.15257993" />
+        </g>
+        <g
+           id="handa__outline"
+           style="stroke-width:0.53712803">
+          <path
+             style="fill:none;stroke:#aa7f31;stroke-width:0.14211513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 19.678385,250.03529 h 0.803199 v 1.41119 h 1.795388"
+             id="path1068" />
+          <g
+             id="g1078"
+             style="fill:none;stroke:#aa7f31;stroke-width:0.53712803;stroke-opacity:1">
+            <path
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#aa7f31;stroke-width:0.14211515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45669365;stroke-opacity:1;paint-order:stroke fill markers"
+               d="m 22.175093,249.90528 c -0.02535,-0.002 -0.05024,-0.002 -0.0749,3.5e-4 -0.345352,0.0307 -0.615083,0.46296 -0.615083,0.8864 v 0.63232 0.0793 0.63233 c 0,0.42343 0.269731,0.8557 0.615083,0.88638 0.04934,0.005 0.100134,5.6e-4 0.151983,-0.0127 l 2.415578,-0.61463 c 0.414817,-0.10556 0.767066,-0.38974 0.767066,-0.87365 v -0.0178 -0.0793 -0.0177 c 0,-0.48391 -0.352249,-0.76809 -0.767066,-0.87366 l -2.415578,-0.61462 c -0.02593,-0.008 -0.05173,-0.011 -0.07709,-0.0131 z"
+               id="path1074" />
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#aa7f31;stroke-width:0.14211513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45669365;stroke-opacity:1;paint-order:stroke fill markers"
+               id="rect1076"
+               width="2.8865182"
+               height="0.90936106"
+               x="16.822319"
+               y="249.56303"
+               ry="0.15257993" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
